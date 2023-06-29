@@ -167,6 +167,11 @@ a{text-decoration: none;}
         display: none;
     }
 }
+@media(max-width:650px){
+    .nav-links{
+        display: none;
+    }
+}
 
 @media(max-width:768px){
     .card{
